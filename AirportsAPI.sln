@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirportsAPI", "AirportsAPI\AirportsAPI.csproj", "{B57CA443-F124-4AB5-A3EA-76A31CA6F611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportsAPITests", "AirportsAPITests\AirportsAPITests.csproj", "{3A5D9ADE-E9FC-4021-A948-F218B0182838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57CA443-F124-4AB5-A3EA-76A31CA6F611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57CA443-F124-4AB5-A3EA-76A31CA6F611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57CA443-F124-4AB5-A3EA-76A31CA6F611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57CA443-F124-4AB5-A3EA-76A31CA6F611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5D9ADE-E9FC-4021-A948-F218B0182838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5D9ADE-E9FC-4021-A948-F218B0182838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5D9ADE-E9FC-4021-A948-F218B0182838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5D9ADE-E9FC-4021-A948-F218B0182838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35049DFA-A9D5-4767-98C7-EE20A63A3887}
+	EndGlobalSection
+EndGlobal
